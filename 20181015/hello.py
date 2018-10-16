@@ -4,6 +4,9 @@
 import moduledemo
 import sys
 # import numpy 
+import numpy
+
+print (numpy)
 
 # import sys
 # print(sys.path)
