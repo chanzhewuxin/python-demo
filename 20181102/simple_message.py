@@ -1,0 +1,8 @@
+
+# -*- coding:GBK -*-
+
+message = "hello python"
+print(message)
+
+message = "ÄãºÃ python"
+print(message)
