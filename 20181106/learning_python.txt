@@ -1,0 +1,10 @@
+In Python I can create class
+In Python I can if-else
+In Python I can open file 
+In Python I can loop case
+In Python I can function
+In Python I can list
+In Python I can tuple
+In Python I can input 
+In Python I can print
+In Python I can import modules 
